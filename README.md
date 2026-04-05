@@ -39,5 +39,9 @@ Consumer segment accounts for ~50% of all orders
 Labels, Paper, and Envelopes have the highest profit margins (40%+)
 Standard Class is the most preferred shipping mode (6K orders)
 Binders lead in total orders among all sub-categories (1,523)
+
+
+## 📸 Dashboard Preview
+![Dashboard Preview](dashboard.png)
 Technology is the top revenue-generating category (0.84M)
 
