@@ -29,7 +29,7 @@ Microsoft Excel / CSV — Data source (SampleSuperstore.csv)
 
 📁 Dataset
 
-Source: Sample Superstore dataset (commonly used for BI practice)
+Source: Sample Superstore dataset 
 Fields: Order ID, Region, State, City, Category, Sub-Category, Sales, Profit, Quantity, Ship Mode, Segment
 
 
